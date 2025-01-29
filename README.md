@@ -1,1 +1,2 @@
-# odin-recipes
+# Odin Recipes
+First project of the Odin Project course. A simple HTML webpage that links to other HTML webpages cointaining recipes. Recipes themselves contain an image, description, ingredients and step-by-step cooking instructions. 
